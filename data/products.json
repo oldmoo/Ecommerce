@@ -1,0 +1,23 @@
+[
+  {
+    "title": "First Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "Make Money ",
+    "price": "19.99",
+    "id": "0.6588500441524232"
+  },
+  {
+    "title": "Air Jordan 1",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/ac9f7d30-0e95-459c-b293-7ee581722aa4/air-jordan-1-mid-zapatillas-D3DnDx.jpg",
+    "description": "sneaker",
+    "price": "100.00",
+    "id": "0.2603036713868465"
+  },
+  {
+    "title": "Airpods Pro",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWP22_AV1?wid=2000&hei=2000&fmt=jpeg&qlt=80&op_usm=0.5%2C0.5&.v=1591634652000",
+    "description": "Best headphone",
+    "price": "299.00",
+    "id": "0.7766909430760263"
+  }
+]
